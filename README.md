@@ -1,4 +1,4 @@
-# Research Paper Analyzer
+# AI Research Paper Insight & Gap Identifier – RAG, Sentence Transformers, FastAPI & Gradio
 
 A web application that uses Retrieval-Augmented Generation (RAG) to analyze research papers and extract key insights or identify research gaps.
 
