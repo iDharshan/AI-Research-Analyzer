@@ -2,7 +2,10 @@
 
 A web application that uses Retrieval-Augmented Generation (RAG) to analyze research papers and extract key insights or identify research gaps.
 
-![Research Paper Analyzer](https://user-images.githubusercontent.com/your-username/your-repo-name/raw/main/screenshots/app-screenshot.png)
+<div align="center">
+  <img src="screenshots/ui_image1.png" alt="UI Image 1" width="45%">
+  <img src="screenshots/ui_image2.png" alt="UI Image 2" width="45%">
+</div>
 
 ## Features
 
