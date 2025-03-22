@@ -3,8 +3,8 @@
 A web application that uses Retrieval-Augmented Generation (RAG) to analyze research papers and extract key insights or identify research gaps.
 
 <div align="center">
-  <img src="screenshots/ui_image1.png" alt="UI Image 1" width="45%">
-  <img src="screenshots/ui_image2.png" alt="UI Image 2" width="45%">
+  <img src="ui_image1.png" alt="UI Image 1" width="45%">
+  <img src="ui_image2.png" alt="UI Image 2" width="45%">
 </div>
 
 ## Features
